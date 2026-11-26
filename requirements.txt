@@ -1,0 +1,7 @@
+streamlit>=1.37
+pandas
+numpy
+opencv-python-headless>=4.8
+huggingface_hub
+streamlit-webrtc
+av
